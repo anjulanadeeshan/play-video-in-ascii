@@ -45,4 +45,13 @@ source venv/bin/activate
 pip install opencv-python
 ```
 4. **Add your video file**
+---s
 - Place your video (e.g., video.mp4) in the project folder.
+
+
+### Notes
+
+- `test.py` – The main script that converts video frames to ASCII and displays them in the terminal.  
+- `video.mp4` – Your sample video file (replace with your own video if desired).  
+- `README.md` – Documentation for the project.  
+- `.gitignore` – Excludes unnecessary files from Git.
