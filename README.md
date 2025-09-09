@@ -48,6 +48,7 @@ pip install opencv-python
 ---s
 - Place your video (e.g., video.mp4) in the project folder.
 
+## Project Structure
 
 ### Notes
 
