@@ -45,4 +45,4 @@ source venv/bin/activate
 pip install opencv-python
 ```
 4. **Add your video file**
-    Place your video (e.g., video.mp4) in the project folder.
+- Place your video (e.g., video.mp4) in the project folder.
